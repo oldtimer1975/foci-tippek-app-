@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,3 +46,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # foci-tippek-app-
+=======
+# foci-tippek-app-
+>>>>>>> 0f3baa6ba685d7a84e33b820ce5fc51526677cc2
